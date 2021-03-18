@@ -27,7 +27,7 @@ export class AComponent implements OnInit {
       [
         '漲升股利150報酬指數',
         '7,111.49',
-        "<p style ='color:red'>+</p>",
+        "+",
         '75.01',
         '1.07',
         null,
@@ -35,7 +35,7 @@ export class AComponent implements OnInit {
       [
         '漲升股利100報酬指數',
         '7,108.18',
-        "<p style ='color:red'>+</p>",
+        "+",
         '67.38',
         '0.96',
         null,
@@ -43,7 +43,7 @@ export class AComponent implements OnInit {
       [
         '藍籌30報酬指數',
         '6,306.22',
-        "<p style ='color:red'>+</p>",
+        "+",
         '61.55',
         '0.99',
         null,
@@ -51,7 +51,7 @@ export class AComponent implements OnInit {
       [
         '工業菁英30報酬指數',
         '6,682.46',
-        "<p style ='color:red'>+</p>",
+        "+",
         '68.84',
         '1.04',
         null,
@@ -59,7 +59,7 @@ export class AComponent implements OnInit {
       [
         '電子菁英30報酬指數',
         '6,496.00',
-        "<p style ='color:red'>+</p>",
+        "+",
         '54.50',
         '0.85',
         null,
@@ -67,7 +67,7 @@ export class AComponent implements OnInit {
       [
         '低波動股利精選30報酬指數',
         '6,674.19',
-        "<p style ='color:red'>+</p>",
+        "+",
         '36.67',
         '0.55',
         null,
@@ -75,7 +75,7 @@ export class AComponent implements OnInit {
       [
         '低貝塔100報酬指數',
         '6,559.09',
-        "<p style ='color:red'>+</p>",
+        "+",
         '25.50',
         '0.39',
         null,
@@ -83,7 +83,7 @@ export class AComponent implements OnInit {
       [
         '中小型精選50報酬指數',
         '6,791.09',
-        "<p style ='color:red'>+</p>",
+        "+",
         '33.33',
         '0.49',
         null,
@@ -91,7 +91,7 @@ export class AComponent implements OnInit {
       [
         '中小型A級動能50報酬指數',
         '7,204.10',
-        "<p style ='color:red'>+</p>",
+        "+",
         '79.54',
         '1.12',
         null,
@@ -99,7 +99,7 @@ export class AComponent implements OnInit {
       [
         '特選高息低波報酬指數',
         '6,074.54',
-        "<p style ='color:red'>+</p>",
+        "+",
         '26.87',
         '0.44',
         null,
@@ -107,7 +107,7 @@ export class AComponent implements OnInit {
       [
         '臺灣永續報酬指數',
         '5,839.76',
-        "<p style ='color:red'>+</p>",
+        "+",
         '54.71',
         '0.95',
         null,
@@ -115,7 +115,7 @@ export class AComponent implements OnInit {
       [
         '特選內需高收益報酬指數',
         '6,102.19',
-        "<p style ='color:red'>+</p>",
+        "+",
         '40.42',
         '0.67',
         null,
@@ -123,7 +123,7 @@ export class AComponent implements OnInit {
       [
         '價值投資報酬指數',
         '6,232.57',
-        "<p style ='color:red'>+</p>",
+        "+",
         '25.06',
         '0.40',
         null,
@@ -131,7 +131,7 @@ export class AComponent implements OnInit {
       [
         '存股雙十等權重報酬指數',
         '5,281.02',
-        "<p style ='color:red'>+</p>",
+        "+",
         '54.57',
         '1.04',
         null,
@@ -139,7 +139,7 @@ export class AComponent implements OnInit {
       [
         '特選大蘋果報酬指數',
         '5,428.16',
-        "<p style ='color:red'>+</p>",
+        "+",
         '64.99',
         '1.21',
         null,
@@ -147,7 +147,7 @@ export class AComponent implements OnInit {
       [
         '中小型300報酬指數',
         '5,972.08',
-        "<p style ='color:red'>+</p>",
+        "+",
         '49.27',
         '0.83',
         null,
@@ -155,7 +155,7 @@ export class AComponent implements OnInit {
       [
         '特股高息20報酬指數',
         '5,381.28',
-        "<p style ='color:red'>+</p>",
+        "+",
         '20.22',
         '0.38',
         null,
@@ -163,7 +163,7 @@ export class AComponent implements OnInit {
       [
         '臺灣500報酬指數',
         '5,679.12',
-        "<p style ='color:red'>+</p>",
+        "+",
         '53.49',
         '0.95',
         null,
@@ -171,7 +171,7 @@ export class AComponent implements OnInit {
       [
         '特選外資豐擁50報酬指數',
         '5,611.93',
-        "<p style ='color:red'>+</p>",
+        "+",
         '53.97',
         '0.97',
         null,
@@ -179,7 +179,7 @@ export class AComponent implements OnInit {
       [
         '臺灣勞工權益報酬指數',
         '5,316.04',
-        "<p style ='color:red'>+</p>",
+        "+",
         '50.20',
         '0.95',
         null,
@@ -189,7 +189,7 @@ export class AComponent implements OnInit {
       [
         '寶島股價報酬指數',
         '15,298.66',
-        "<p style ='color:red'>+</p>",
+        "+",
         '140.03',
         '0.92',
         null,
@@ -197,7 +197,7 @@ export class AComponent implements OnInit {
       [
         '發行量加權股價報酬指數',
         '19,790.44',
-        "<p style ='color:red'>+</p>",
+        "+",
         '184.48',
         '0.94',
         null,
@@ -205,7 +205,7 @@ export class AComponent implements OnInit {
       [
         '臺灣公司治理100報酬指數',
         '7,357.75',
-        "<p style ='color:red'>+</p>",
+        "+",
         '69.45',
         '0.95',
         null,
@@ -213,7 +213,7 @@ export class AComponent implements OnInit {
       [
         '臺灣50報酬指數',
         '14,975.22',
-        "<p style ='color:red'>+</p>",
+        "+",
         '151.06',
         '1.02',
         null,
@@ -221,7 +221,7 @@ export class AComponent implements OnInit {
       [
         '臺灣中型100報酬指數',
         '13,919.56',
-        "<p style ='color:red'>+</p>",
+        "+",
         '115.02',
         '0.83',
         null,
@@ -229,7 +229,7 @@ export class AComponent implements OnInit {
       [
         '臺灣資訊科技報酬指數',
         '19,142.00',
-        "<p style ='color:red'>+</p>",
+        "+",
         '245.20',
         '1.30',
         null,
@@ -237,7 +237,7 @@ export class AComponent implements OnInit {
       [
         '臺灣發達報酬指數',
         '13,569.48',
-        "<p style ='color:red'>+</p>",
+        "+",
         '116.84',
         '0.87',
         null,
@@ -245,7 +245,7 @@ export class AComponent implements OnInit {
       [
         '臺灣高股息報酬指數',
         '13,621.30',
-        "<p style ='color:red'>+</p>",
+        "+",
         '93.12',
         '0.69',
         null,
@@ -253,7 +253,7 @@ export class AComponent implements OnInit {
       [
         '臺灣就業99報酬指數',
         '8,645.58',
-        "<p style ='color:red'>+</p>",
+        "+",
         '88.24',
         '1.03',
         null,
@@ -261,7 +261,7 @@ export class AComponent implements OnInit {
       [
         '臺灣高薪100報酬指數',
         '7,342.77',
-        "<p style ='color:red'>+</p>",
+        "+",
         '63.20',
         '0.87',
         null,
@@ -269,7 +269,7 @@ export class AComponent implements OnInit {
       [
         '未含金融電子報酬指數',
         '22,668.65',
-        "<p style ='color:red'>+</p>",
+        "+",
         '181.83',
         '0.81',
         null,
@@ -277,7 +277,7 @@ export class AComponent implements OnInit {
       [
         '小型股300報酬指數',
         '7,646.26',
-        "<p style ='color:red'>+</p>",
+        "+",
         '58.38',
         '0.77',
         null,
@@ -285,7 +285,7 @@ export class AComponent implements OnInit {
       [
         '水泥類報酬指數',
         '259.31',
-        "<p style ='color:green'>-</p>",
+        "-",
         '0.07',
         '-0.03',
         null,
@@ -293,7 +293,7 @@ export class AComponent implements OnInit {
       [
         '食品類報酬指數',
         '2,515.20',
-        "<p style ='color:red'>+</p>",
+        "+",
         '22.00',
         '0.88',
         null,
@@ -301,7 +301,7 @@ export class AComponent implements OnInit {
       [
         '塑膠類報酬指數',
         '394.97',
-        "<p style ='color:red'>+</p>",
+        "+",
         '4.52',
         '1.16',
         null,
@@ -309,7 +309,7 @@ export class AComponent implements OnInit {
       [
         '紡織纖維類報酬指數',
         '780.99',
-        "<p style ='color:red'>+</p>",
+        "+",
         '7.17',
         '0.93',
         null,
@@ -317,7 +317,7 @@ export class AComponent implements OnInit {
       [
         '電機機械類報酬指數',
         '229.53',
-        "<p style ='color:red'>+</p>",
+        "+",
         '0.43',
         '0.19',
         null,
@@ -325,7 +325,7 @@ export class AComponent implements OnInit {
       [
         '電器電纜類報酬指數',
         '60.92',
-        "<p style ='color:green'>-</p>",
+        "-",
         '0.04',
         '-0.07',
         null,
@@ -333,7 +333,7 @@ export class AComponent implements OnInit {
       [
         '化學生技醫療類報酬指數',
         '140.73',
-        "<p style ='color:red'>+</p>",
+        "+",
         '0.53',
         '0.38',
         null,
@@ -341,7 +341,7 @@ export class AComponent implements OnInit {
       [
         '化學類報酬指數',
         '156.57',
-        "<p style ='color:red'>+</p>",
+        "+",
         '0.68',
         '0.44',
         null,
@@ -349,7 +349,7 @@ export class AComponent implements OnInit {
       [
         '生技醫療類報酬指數',
         '84.07',
-        "<p style ='color:red'>+</p>",
+        "+",
         '0.26',
         '0.31',
         null,
@@ -357,7 +357,7 @@ export class AComponent implements OnInit {
       [
         '玻璃陶瓷類報酬指數',
         '37.96',
-        "<p style ='color:red'>+</p>",
+        "+",
         '0.85',
         '2.29',
         null,
@@ -365,7 +365,7 @@ export class AComponent implements OnInit {
       [
         '造紙類報酬指數',
         '257.30',
-        "<p style ='color:red'>+</p>",
+        "+",
         '0.61',
         '0.24',
         null,
@@ -373,7 +373,7 @@ export class AComponent implements OnInit {
       [
         '鋼鐵類報酬指數',
         '150.47',
-        "<p style ='color:red'>+</p>",
+        "+",
         '0.18',
         '0.12',
         null,
@@ -381,7 +381,7 @@ export class AComponent implements OnInit {
       [
         '橡膠類報酬指數',
         '380.61',
-        "<p style ='color:red'>+</p>",
+        "+",
         '2.36',
         '0.62',
         null,
@@ -389,7 +389,7 @@ export class AComponent implements OnInit {
       [
         '汽車類報酬指數',
         '412.86',
-        "<p style ='color:red'>+</p>",
+        "+",
         '8.62',
         '2.13',
         null,
@@ -397,7 +397,7 @@ export class AComponent implements OnInit {
       [
         '電子工業類報酬指數',
         '753.75',
-        "<p style ='color:red'>+</p>",
+        "+",
         '8.42',
         '1.13',
         null,
@@ -405,7 +405,7 @@ export class AComponent implements OnInit {
       [
         '半導體類報酬指數',
         '287.50',
-        "<p style ='color:red'>+</p>",
+        "+",
         '3.81',
         '1.34',
         null,
@@ -413,7 +413,7 @@ export class AComponent implements OnInit {
       [
         '電腦及週邊設備類報酬指數',
         '173.70',
-        "<p style ='color:red'>+</p>",
+        "+",
         '1.80',
         '1.05',
         null,
@@ -421,7 +421,7 @@ export class AComponent implements OnInit {
       [
         '光電類報酬指數',
         '49.04',
-        "<p style ='color:red'>+</p>",
+        "+",
         '0.52',
         '1.07',
         null,
@@ -429,7 +429,7 @@ export class AComponent implements OnInit {
       [
         '通信網路類報酬指數',
         '238.56',
-        "<p style ='color:red'>+</p>",
+        "+",
         '1.35',
         '0.57',
         null,
@@ -437,7 +437,7 @@ export class AComponent implements OnInit {
       [
         '電子零組件類報酬指數',
         '175.54',
-        "<p style ='color:red'>+</p>",
+        "+",
         '1.12',
         '0.64',
         null,
@@ -445,7 +445,7 @@ export class AComponent implements OnInit {
       [
         '電子通路類報酬指數',
         '225.67',
-        "<p style ='color:red'>+</p>",
+        "+",
         '1.20',
         '0.53',
         null,
@@ -453,7 +453,7 @@ export class AComponent implements OnInit {
       [
         '資訊服務類報酬指數',
         '235.67',
-        "<p style ='color:red'>+</p>",
+        "+",
         '1.86',
         '0.80',
         null,
@@ -461,7 +461,7 @@ export class AComponent implements OnInit {
       [
         '其他電子類報酬指數',
         '107.15',
-        "<p style ='color:red'>+</p>",
+        "+",
         '1.39',
         '1.31',
         null,
@@ -469,7 +469,7 @@ export class AComponent implements OnInit {
       [
         '建材營造類報酬指數',
         '487.78',
-        "<p style ='color:red'>+</p>",
+        "+",
         '5.92',
         '1.23',
         null,
@@ -477,7 +477,7 @@ export class AComponent implements OnInit {
       [
         '航運類報酬指數',
         '91.13',
-        "<p style ='color:red'>+</p>",
+        "+",
         '0.24',
         '0.26',
         null,
@@ -485,7 +485,7 @@ export class AComponent implements OnInit {
       [
         '觀光類報酬指數',
         '128.75',
-        "<p style ='color:green'>-</p>",
+        "-",
         '0.03',
         '-0.02',
         null,
@@ -493,7 +493,7 @@ export class AComponent implements OnInit {
       [
         '金融保險類報酬指數',
         '1,923.90',
-        "<p style ='color:red'>+</p>",
+        "+",
         '9.86',
         '0.52',
         null,
@@ -501,7 +501,7 @@ export class AComponent implements OnInit {
       [
         '貿易百貨類報酬指數',
         '341.41',
-        "<p style ='color:red'>+</p>",
+        "+",
         '5.52',
         '1.64',
         null,
@@ -509,7 +509,7 @@ export class AComponent implements OnInit {
       [
         '油電燃氣類報酬指數',
         '180.52',
-        "<p style ='color:red'>+</p>",
+        "+",
         '1.25',
         '0.70',
         null,
@@ -517,7 +517,7 @@ export class AComponent implements OnInit {
       [
         '其他類報酬指數',
         '431.42',
-        "<p style ='color:red'>+</p>",
+        "+",
         '2.64',
         '0.62',
         null,
